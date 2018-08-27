@@ -1,6 +1,6 @@
 # simple-python-pyinstaller-app
 
-1.00
+2.00
 
 This repository is for the
 [Build a Python app with PyInstaller](https://jenkins.io/doc/tutorials/build-a-python-app-with-pyinstaller/)
